@@ -7,12 +7,15 @@
  */
 int main(void)
 {
-int n;
+char ch;
 
-for (n = 0; n < 10; n++)
+for (ch = 'z'; ch >= 'a'; ch--)
 {
-printf("%d", n);
+
+putchar(ch);
 }
-printf("\n");
+
+putchar(10); /* this is an ascii code for new line*/
+
 return (0);
 }
