@@ -41,7 +41,7 @@ Below is the list of exercises you will find in this task:
 7. **Task 7:** `Puts_half.c;`
    - Description: Function prints half of a string, followed by a new line.
 
-8. **Task 8:** `Print_array.c:`
+8. **Task 8:** `Print_array.c;`
    - Description: Function prints n elements of an array of integers, followed by a new line.
 
 9. **Task 9:** `Strcpy.c;`
