@@ -47,9 +47,11 @@ Below is the list of exercises you will find in this task:
 9. **Task 9:** `Strcpy.c;`
    - Description: Function copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
-100. **Task 100:** `Atoi.c;`
+10. **Task 100:** `Atoi.c;`
    - Description: Function convert a string to an integer.
-
+  
+11. **Task 101:** `Keygen.c;`
+   - Description: a program that generates random valid passwords for the program 101-crackme.
 ## Guidelines
 
 1. Your task is to implement the functions corresponding to each exercise. These functions should be placed in a separate C file (e.g., `pointers_arrays_strings.c`) within the same directory.
