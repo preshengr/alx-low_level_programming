@@ -45,10 +45,10 @@ Below is the list of exercises you will find in this task:
    - Description: Function prints n elements of an array of integers, followed by a new line.
 
 9. **Task 9:** `Strcpy.c;`
-   - Function copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+   - Description: Function copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
 100. **Task 100:** `Atoi.c;`
-   - Function convert a string to an integer.
+   - Description: Function convert a string to an integer.
 
 ## Guidelines
 
