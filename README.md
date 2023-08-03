@@ -13,7 +13,7 @@ The repository is organized into directories, each representing a different proj
 - `0x00/`: This directory contains the source code and files for the first project.
 - `0x01/`: This directory contains the source code and files for the second project.
 - ...
-- `0x05/`: This directory contains the source code and files for the Nth project.
+- `0x08/`: This directory contains the source code and files for the Nth project.
 
 ## Getting Started
 
