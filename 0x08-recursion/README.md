@@ -28,7 +28,7 @@ Recursion is a programming technique where a function calls itself to solve a pr
 
 ## License
 
-This project is licensed under the [LICENSE_NAME] License. You may refer to the LICENSE file in this repository for more information.
+This project is licensed under the [PRECIOUS AMAECHI] License. You may refer to the LICENSE file in this repository for more information.
 
 ## How to Use
 
