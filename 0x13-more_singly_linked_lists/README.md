@@ -1,4 +1,3 @@
-```
 # Project 0x13-more_singly_linked_lists
 
 This project focuses on enhancing your understanding of singly linked lists in C programming. It includes various tasks related to working with singly linked lists, such as creating, manipulating, and traversing them.
