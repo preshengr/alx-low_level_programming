@@ -1,44 +1,50 @@
-# 0x14-bit_manipulation in C programming
-
-![ALX-Holberton School](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqh42y3EuOp2lipAiBiPY6wrE-mm8TVTYExbIzggRQNAKJP0KlVx6QKQz0DYJpET0DeM&usqp=CAU)
-
-## Description
-
-Welcome to the "0x14-bit_manipulation in C programming" project repository. This collection of C programming projects focuses on various aspects of bit manipulation, providing practical examples of working with binary data and manipulating individual bits.
-
-## Author
-
-- **Author:** Precious Okwukwe Amaechi
-
-## License
-
-This project is licensed under the [ALX-Holberton School License](LICENSE).
-
-## List of Projects
-
-1. [0-binary_to_uint.c](./0-binary_to_uint.c): Convert Binary to Unsigned Integer.
-2. [01-password](./01-password): Bitwise password manipulation.
-3. [1-print_binary.c](./1-print_binary.c): Print Binary Representation.
-4. [2-get_bit.c](./2-get_bit.c): Get the Value of a Bit.
-5. [3-set_bit.c](./3-set_bit.c): Set the Value of a Bit.
-6. [4-clear_bit.c](./4-clear_bit.c): Clear a Bit.
-7. [5-flip_bits.c](./5-flip_bits.c): Count Flipped Bits to Convert One Number to Another.
-8. [100-get_endianness.c](./100-get_endianness.c): Check Endianness of System.
-9. [101-password](./101-password): More Bitwise Password Manipulation.
-
-Each project file addresses a specific concept or task related to bit manipulation in C programming. Please refer to each individual project for detailed explanations, implementation details, and usage examples.
-
-## Getting Started
-
-To compile and run the C programs, you can use a C compiler like `gcc`. For example:
-
-```bash
-gcc -Wall -Werror -Wextra -pedantic <source_file.c> -o <output_file>
-./<output_file>
-```
-
-Feel free to explore the code, learn from it, and adapt it for your own purposes.
-
-## Acknowledgments
-
-Thank you for checking out my task on  "bit_manipulation in Alx Low Level programming" project repository. I hope you find these examples useful for understanding and working with bit manipulation in C. Happy coding!
+# 0x14-bit_manipulation in C programming
+
+Welcome to the "0x14-bit_manipulation in C programming" project repository. This collection of C programming projects focuses on bit manipulation tasks.
+
+## Author
+
+- **Author:** Precious Okwukwe Amaechi [Precious Okwukwe Amaechi]
+
+## License
+
+This project is licensed under the [ALX-Holberton School License](LICENSE).
+
+## Description
+
+The "0x14-bit_manipulation" project is a compilation of C programs that demonstrate various bit manipulation techniques. Each project file addresses specific tasks related to manipulating individual bits within data.
+
+## List of Projects
+
+The following projects are included in this repository:
+
+1. [0-binary_to_uint.c](./0-binary_to_uint.c) - Convert binary strings to unsigned integers.
+2. [01-password](./01-password) - Implement a password system using bit manipulation.
+3. [1-print_binary.c](./1-print_binary.c) - Print the binary representation of a number.
+4. [2-get_bit.c](./2-get_bit.c) - Get the value of a bit at a specific index.
+5. [3-set_bit.c](./3-set_bit.c) - Set a bit at a specific index to 1.
+6. [4-clear_bit.c](./4-clear_bit.c) - Clear a bit at a specific index.
+7. [5-flip_bits.c](./5-flip_bits.c) - Count the number of bits needed to flip to convert one number to another.
+8. [100-get_endianness.c](./100-get_endianness.c) - Determine the endianness of the system.
+9. [101-password](./101-password) - Implement an advanced password system using bit manipulation.
+10. [main.h](./main.h) - Header file containing function prototypes and necessary includes.
+
+## Usage
+
+Each project contains a C file with specific functions related to the task. You can compile and run these programs individually to see the results.
+
+To compile a project, you can use a command like:
+
+```sh
+gcc -Wall -Werror -Wextra -pedantic -o project_output project_file.c
+```
+
+Replace `project_output` with your desired output executable name and `project_file.c` with the name of the project's C file.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any issues or want to enhance the existing projects, feel free to create pull requests.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact the author, Precious Okwukwe Amaechi, at [preshengr@mail.com](mailto:preshengr@mail.com).
